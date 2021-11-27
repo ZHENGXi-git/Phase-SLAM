@@ -3,6 +3,11 @@
 
 This open source is written by MATLAB 
 
+Run Mode:
+
+Open one of the Name_00xU.m or Name_00xR.m,  for example David_001U.m (each of them corresponds to a dataset), and then run it.
+
+
 ### Related Paper
 
 Phase-SLAM: Mobile Structured Light Illumination for Full Body 3d Scanning,  Xi Zheng, Rui Ma, Rui Gao, and Qi Hao, IEEE/RSJ
