@@ -5,8 +5,7 @@ This open source is written by MATLAB
 
 Run Mode:
 
-Open one of the Name_00xU.m or Name_00xR.m,  for example David_001U.m (each of them corresponds to a dataset), and then run it.
-
+Open one of the Name_00xU.m or Name_00xR.m by matlab,  for example David_001U.m (each of them corresponds to a dataset), and then run it.
 
 ### Related Paper
 
