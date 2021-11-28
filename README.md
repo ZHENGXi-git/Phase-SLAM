@@ -5,11 +5,11 @@ This open source is written by MATLAB
 
 ### Run Mode
 
-Open one of the Name_00xU.m or Name_00xR.m by MATLAB,  for example David_001U.m (each of them corresponds to a dataset).
+* Open one of the Name_00xU.m or Name_00xR.m by MATLAB,  for example David_001U.m (each of them corresponds to a dataset).
 
-Run it.
+* Run it.
 
-No other dependencies are required. 
+* No other dependencies are required. 
 
 The ground-truth models and reconstruction results are shown in fig:
 
