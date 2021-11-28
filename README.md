@@ -15,7 +15,7 @@ The ground-truth models and reconstruction results are shown in fig:
 
 <img src="https://github.com/ZHENGXi-git/Phase-SLAM/blob/main/result.png" width="%30" height="%30" />
 The 
-(a)-(c) are unreal datasets built in Unreal Engineer 4 simulator. (e)-(f) are real-world datasets collected by Structured light sensor and UR5 robotic arm.
+(a)-(c) are unreal datasets built in Unreal Engineer 4 simulator. (e)-(f) are real-world datasets collected by structured light sensor with UR5 robotic arm.
 The bottom row is ground truth, the top row is result. 
 
 ### Related Paper
