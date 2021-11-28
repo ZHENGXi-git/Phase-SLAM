@@ -17,8 +17,8 @@ The ground-truth models and reconstruction results are shown in fig:
 
 ### Related Paper
 
-* Phase-SLAM: Mobile Structured Light Illumination for Full Body 3d Scanning,  Xi Zheng, Rui Ma, Rui Gao, and Qi Hao, IEEE/RSJ
+* **Phase-SLAM: Mobile Structured Light Illumination for Full Body 3d Scanning**,  Xi Zheng, Rui Ma, Rui Gao, and Qi Hao, IEEE/RSJ
  International Conference on Intelligent Robots and Systems (IROS). IEEE, 2021
 
-* A Pose Estimator for Dense Reconstruction with the Structured Light Illumination Sensor, Xi Zheng, Rui Ma, Rui Gao, and Qi Hao, under review
+* **A Pose Estimator for Dense Reconstruction with the Structured Light Illumination Sensor**, Xi Zheng, Rui Ma, Rui Gao, and Qi Hao, under review
 
