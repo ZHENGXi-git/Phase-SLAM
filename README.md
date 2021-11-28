@@ -8,7 +8,8 @@ This open source is written by MATLAB
 Open one of the Name_00xU.m or Name_00xR.m by matlab,  for example David_001U.m (each of them corresponds to a dataset), and run it.
 
 The reconstruciton results is shown in fig:
-<img src=" " width="%50" height="%50" />
+
+<img src="https://github.com/ZHENGXi-git/Phase-SLAM/blob/main/result.png" width="%50" height="%50" />
 
 ### Related Paper
 
