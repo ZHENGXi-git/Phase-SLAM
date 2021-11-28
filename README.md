@@ -9,7 +9,7 @@ Open one of the Name_00xU.m or Name_00xR.m by matlab,  for example David_001U.m 
 
 The ground-truth model and reconstruction results are shown in fig:
 
-<img src="https://github.com/ZHENGXi-git/Phase-SLAM/blob/main/result.png" width="%40" height="%40" />
+<img src="https://github.com/ZHENGXi-git/Phase-SLAM/blob/main/result.png" width="%30" height="%30" />
 
 ### Related Paper
 
