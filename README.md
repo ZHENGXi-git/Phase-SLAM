@@ -23,5 +23,5 @@ The bottom row is ground truth, the top row is result.
 * **Phase-SLAM: Mobile Structured Light Illumination for Full Body 3d Scanning**,  Xi Zheng, Rui Ma, Rui Gao, and Qi Hao, IEEE/RSJ
  International Conference on Intelligent Robots and Systems (IROS). IEEE, 2021
 
-* **A Pose Estimator for Dense Reconstruction with the Structured Light Illumination Sensor**, Xi Zheng, Rui Ma, Rui Gao, and Qi Hao, under review
+* **Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**, Xi Zheng, Rui Ma, Rui Gao, and Qi Hao, under review
 
